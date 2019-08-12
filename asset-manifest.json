@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mockup/static/css/main.3f5c0c21.chunk.css",
+    "main.js": "/mockup/static/js/main.8821a7d7.chunk.js",
+    "main.js.map": "/mockup/static/js/main.8821a7d7.chunk.js.map",
+    "runtime~main.js": "/mockup/static/js/runtime~main.43ccd313.js",
+    "runtime~main.js.map": "/mockup/static/js/runtime~main.43ccd313.js.map",
+    "static/css/2.913ce6b6.chunk.css": "/mockup/static/css/2.913ce6b6.chunk.css",
+    "static/js/2.62d168a4.chunk.js": "/mockup/static/js/2.62d168a4.chunk.js",
+    "static/js/2.62d168a4.chunk.js.map": "/mockup/static/js/2.62d168a4.chunk.js.map",
+    "index.html": "/mockup/index.html",
+    "precache-manifest.0f332621936f8b8986a7f595666885bc.js": "/mockup/precache-manifest.0f332621936f8b8986a7f595666885bc.js",
+    "service-worker.js": "/mockup/service-worker.js",
+    "static/css/2.913ce6b6.chunk.css.map": "/mockup/static/css/2.913ce6b6.chunk.css.map",
+    "static/css/main.3f5c0c21.chunk.css.map": "/mockup/static/css/main.3f5c0c21.chunk.css.map",
+    "static/media/Capture.JPG": "/mockup/static/media/Capture.b5c56ef1.JPG",
+    "static/media/app.scss": "/mockup/static/media/fa-solid-900.fdc155d5.svg"
+  }
+}
